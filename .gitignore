@@ -1,0 +1,21 @@
+# Build artifacts
+hwk1/build/
+build/
+Debug/
+Release/
+
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+*.su
+
+# IDE / toolchain
+.vscode/
+.idea/
+*.user
+*.swp
